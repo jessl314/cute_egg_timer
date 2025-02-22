@@ -2,7 +2,7 @@
   "name": "cute_egg_timer",
   "version": "1.0.0",
   "description": "a desktop app that times the cooking of boiled eggs",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "npm test"
   },
